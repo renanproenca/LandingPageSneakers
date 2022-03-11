@@ -84,7 +84,7 @@ nav ul li a {
   display: flex;
   justify-content: space-evenly;
   max-width: 400px;
-  gap: 10px;
+  gap: 5px;
 }
 
 .thumbnail img {
